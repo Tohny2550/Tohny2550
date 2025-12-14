@@ -19,5 +19,3 @@ Currently exploring the world of **Software Engineering, AI, and Robotics**. ðŸŒ
 * ðŸ“§ **Email:** 6833182021@student.chula.ac.th
 
 <br>
-
-![Tohny2550's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tohny2550&show_icons=true&theme=radical&hide_border=true)
